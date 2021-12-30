@@ -67,6 +67,16 @@ The e2e tests are using Protractor and Jasmine.
 
 ### CricleCI Backend
 <img src="screenshots/circle-ci-backend.png" alt="backend"/>
+
+### S3
+<img src="screenshots/S3.png" alt="S3"/>
+
+### Elastic Beanstalk
+<img src="screenshots/elastic-beanstalk.png" alt="Elastic Beanstalk"/>
+
+### RDS
+<img src="screenshots/RDS.png" alt="RDS"/>
+
 ## License
 
 [License](LICENSE.txt)
