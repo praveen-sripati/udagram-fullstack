@@ -1,5 +1,5 @@
 # Udagram
- <strong><sup>Frontend</sup></strong> [![CircleCI](https://circleci.com/gh/praveen-sripati/udagram-api/tree/main.svg?style=shield)](https://circleci.com/gh/praveen-sripati/udagram-api/tree/main)   <strong><sup>API</sup></strong> [![CircleCI](https://circleci.com/gh/praveen-sripati/udagram-frontend/tree/main.svg?style=shield)](https://circleci.com/gh/praveen-sripati/udagram-frontend/tree/main)
+ <strong><sup>Fullstack</sup></strong> [![CircleCI](https://circleci.com/gh/praveen-sripati/udagram-fullstack/tree/main.svg?style=shield)](https://circleci.com/gh/praveen-sripati/udagram-fullstack/tree/main)   <strong><sup>Frontend</sup></strong> [![CircleCI](https://circleci.com/gh/praveen-sripati/udagram-api/tree/main.svg?style=shield)](https://circleci.com/gh/praveen-sripati/udagram-api/tree/main)   <strong><sup>API</sup></strong> [![CircleCI](https://circleci.com/gh/praveen-sripati/udagram-frontend/tree/main.svg?style=shield)](https://circleci.com/gh/praveen-sripati/udagram-frontend/tree/main)
 
 This application is provided to you as an alternative starter project if you do not wish to host your own code done in the previous courses of this nanodegree. The udagram application is a fairly simple application that includes all the major components of a Full-Stack web application.
 
