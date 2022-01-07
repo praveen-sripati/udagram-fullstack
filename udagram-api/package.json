@@ -14,7 +14,7 @@
     "clean-windows": "rimraf www/ || true",
     "build-windows": "npm run clean-windows && tsc && npm run copy-windows",
     "copy-windows": "copy .npmrc \"www/.npmrc\" && copy package.json \"www/package.json\" && xcopy /E /I \"src/migrations\" \"www/migrations\"",
-    "deploy": "eb use Udagrambackend-env-1 --profile default && eb deploy --profile default"
+    "deploy": "chmod +x bin/deploy.sh && bin/deploy.sh"
   },
   "keywords": [],
   "author": "Gabriel Ruttner",
