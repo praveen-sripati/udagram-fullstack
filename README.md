@@ -62,6 +62,10 @@ The e2e tests are using Protractor and Jasmine.
 - [Express](https://expressjs.com/) - Javascript API Framework
 
 ## Screenshots
+
+### CircleCI Fullstack
+<img src="screenshots/circle-ci-complete.gif" alt="frontend"/>
+
 ### CircleCI Frontend
 <img src="screenshots/circle-ci-frontend.gif" alt="frontend"/>
 
