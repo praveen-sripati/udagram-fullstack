@@ -1,4 +1,4 @@
-# eb setenv AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY_ID &&
+eb setenv AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY_ID --profile default &&
 # eb setenv AWS_BUCKET=$AWS_BUCKET &&
 # eb setenv AWS_REGION=$AWS_DEFAULT_REGION &&
 # eb setenv AWS_SECRET_ACCESS_KEY=$AWS_SECRET_ACCESS_KEY &&
